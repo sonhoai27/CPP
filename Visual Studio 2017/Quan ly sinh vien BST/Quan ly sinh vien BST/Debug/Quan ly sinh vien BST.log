@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\cpp\visual studio 2017\quan ly sinh vien bst\quan ly sinh vien bst\source.cpp(44): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\projects\cpp\visual studio 2017\quan ly sinh vien bst\quan ly sinh vien bst\source.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\Projects\CPP\Visual Studio 2017\Quan ly sinh vien BST\Debug\Quan ly sinh vien BST.exe for writing

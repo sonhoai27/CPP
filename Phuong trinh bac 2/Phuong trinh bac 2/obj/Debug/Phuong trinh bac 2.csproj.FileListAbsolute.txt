@@ -1,0 +1,6 @@
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\bin\Debug\Phuong trinh bac 2.exe.config
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\bin\Debug\Phuong trinh bac 2.exe
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\bin\Debug\Phuong trinh bac 2.pdb
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\obj\Debug\Phuong trinh bac 2.csprojResolveAssemblyReference.cache
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\obj\Debug\Phuong trinh bac 2.exe
+c:\users\sonla\documents\visual studio 2015\Projects\Phuong trinh bac 2\Phuong trinh bac 2\obj\Debug\Phuong trinh bac 2.pdb

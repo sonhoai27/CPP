@@ -1,0 +1,4 @@
+Button.MainActivity, Button;md5880748b32102f3136298837ac2e30ff8.MainActivity
+Button.MainActivity, Button, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5880748b32102f3136298837ac2e30ff8.MainActivity
+Button.MainActivity;md5880748b32102f3136298837ac2e30ff8.MainActivity
+button.MainActivity;md5880748b32102f3136298837ac2e30ff8.MainActivity

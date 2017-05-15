@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\cpp\visual studio 2017\doan vattu\doan vattu\source.cpp(71): warning C4715: 'DS_VATTU::Empty': not all control paths return a value
+  DoAn VATTU.vcxproj -> D:\Projects\CPP\Visual Studio 2017\DoAn VATTU\Debug\DoAn VATTU.exe
+  DoAn VATTU.vcxproj -> D:\Projects\CPP\Visual Studio 2017\DoAn VATTU\Debug\DoAn VATTU.pdb (Full PDB)

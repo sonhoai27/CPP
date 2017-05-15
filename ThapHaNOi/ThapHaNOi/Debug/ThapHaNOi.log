@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+Source1.obj : error LNK2005: "void __cdecl chuyen(int,char,char)" (?chuyen@@YAXHDD@Z) already defined in Source.obj
+Source1.obj : error LNK2005: "void __cdecl thapHaNoi(int,char,char,char)" (?thapHaNoi@@YAXHDDD@Z) already defined in Source.obj
+Source1.obj : error LNK2005: _main already defined in Source.obj
+c:\users\sonla\documents\visual studio 2015\Projects\ThapHaNOi\Debug\ThapHaNOi.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sonla\documents\visual studio 2015\projects\vi du ve struct\vi du ve struct\main.cpp(9): warning C4091: 'typedef ': ignored on left of 'SinhVien' when no variable is declared
+  Vi Du Ve struct.vcxproj -> C:\Users\sonla\Documents\Visual Studio 2015\Projects\Vi Du Ve struct\Debug\Vi Du Ve struct.exe
+  Vi Du Ve struct.vcxproj -> C:\Users\sonla\Documents\Visual Studio 2015\Projects\Vi Du Ve struct\Debug\Vi Du Ve struct.pdb (Partial PDB)

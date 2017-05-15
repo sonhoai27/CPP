@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\projects\cpp\visual studio 2017\cay nhi phan\cay nhi phan\main.cpp(189): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\projects\cpp\visual studio 2017\cay nhi phan\cay nhi phan\main.cpp(184): warning C4715: 'cay::do_cao': not all control paths return a value
+  Cay nhi phan.vcxproj -> D:\Projects\CPP\Visual Studio 2017\Cay nhi phan\Debug\Cay nhi phan.exe
+  Cay nhi phan.vcxproj -> D:\Projects\CPP\Visual Studio 2017\Cay nhi phan\Debug\Cay nhi phan.pdb (Full PDB)

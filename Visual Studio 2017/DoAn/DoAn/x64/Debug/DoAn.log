@@ -1,0 +1,228 @@
+﻿HOADON.obj : error LNK2005: "void __cdecl SetBGColor(unsigned short)" (?SetBGColor@@YAXG@Z) already defined in DS_HOADON.obj
+HOADON.obj : error LNK2005: "void __cdecl SetColor(unsigned short)" (?SetColor@@YAXG@Z) already defined in DS_HOADON.obj
+HOADON.obj : error LNK2005: "void __cdecl gotoxy(short,short)" (?gotoxy@@YAXFF@Z) already defined in DS_HOADON.obj
+main.obj : error LNK2005: "void __cdecl SetBGColor(unsigned short)" (?SetBGColor@@YAXG@Z) already defined in DS_HOADON.obj
+main.obj : error LNK2005: "void __cdecl SetColor(unsigned short)" (?SetColor@@YAXG@Z) already defined in DS_HOADON.obj
+main.obj : error LNK2005: "void __cdecl gotoxy(short,short)" (?gotoxy@@YAXFF@Z) already defined in DS_HOADON.obj
+Nodes_DSHOADON.obj : error LNK2005: "void __cdecl SetBGColor(unsigned short)" (?SetBGColor@@YAXG@Z) already defined in DS_HOADON.obj
+Nodes_DSHOADON.obj : error LNK2005: "void __cdecl SetColor(unsigned short)" (?SetColor@@YAXG@Z) already defined in DS_HOADON.obj
+Nodes_DSHOADON.obj : error LNK2005: "void __cdecl gotoxy(short,short)" (?gotoxy@@YAXFF@Z) already defined in DS_HOADON.obj
+DS_HOADON.obj : error LNK2019: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z) referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z) referenced in function "void __cdecl std::_Deallocate(void *,unsigned __int64,unsigned __int64)" (?_Deallocate@std@@YAXPEAX_K1@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z) referenced in function "public: void * __cdecl NODES_DSHOADON::`scalar deleting destructor'(unsigned int)" (??_GNODES_DSHOADON@@QEAAPEAXI@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol __imp__invalid_parameter referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+VATTU.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z) referenced in function "public: void __cdecl std::_Container_base12::_Orphan_all(void)" (?_Orphan_all@_Container_base12@std@@QEAAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ) referenced in function "public: void __cdecl std::_Container_base12::_Orphan_all(void)" (?_Orphan_all@_Container_base12@std@@QEAAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol __imp_atoi referenced in function "public: void __cdecl DS_HOADON::XuLyHOADON(void)" (?XuLyHOADON@DS_HOADON@@QEAAXXZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol memcpy referenced in function "public: static char * __cdecl std::char_traits<char>::copy(char *,char const *,unsigned __int64)" (?copy@?$char_traits@D@std@@SAPEADPEADPEBD_K@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol memcpy
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol memcpy
+VATTU.obj : error LNK2001: unresolved external symbol memcpy
+DS_HOADON.obj : error LNK2019: unresolved external symbol __imp_memmove referenced in function "public: static char * __cdecl std::char_traits<char>::move(char *,char const *,unsigned __int64)" (?move@?$char_traits@D@std@@SAPEADPEADPEBD_K@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol __imp_memmove
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __imp_memmove
+VATTU.obj : error LNK2001: unresolved external symbol __imp_memmove
+DS_HOADON.obj : error LNK2019: unresolved external symbol memset referenced in function "public: static char * __cdecl std::char_traits<char>::assign(char *,unsigned __int64,char)" (?assign@?$char_traits@D@std@@SAPEADPEAD_KD@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol memset
+VATTU.obj : error LNK2001: unresolved external symbol memset
+DS_HOADON.obj : error LNK2019: unresolved external symbol strlen referenced in function "public: static unsigned __int64 __cdecl std::char_traits<char>::length(char const *)" (?length@?$char_traits@D@std@@SA_KPEBD@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol strlen
+HOADON.obj : error LNK2001: unresolved external symbol strlen
+VATTU.obj : error LNK2001: unresolved external symbol strlen
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol __imp__CrtDbgReportW referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+VATTU.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xbad_alloc(void)" (__imp_?_Xbad_alloc@std@@YAXXZ) referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xbad_alloc(void)" (__imp_?_Xbad_alloc@std@@YAXXZ)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xbad_alloc(void)" (__imp_?_Xbad_alloc@std@@YAXXZ)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xbad_alloc(void)" (__imp_?_Xbad_alloc@std@@YAXXZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xlength_error(char const *)" (__imp_?_Xlength_error@std@@YAXPEBD@Z) referenced in function "public: void __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::_Xlen(void)const " (?_Xlen@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xlength_error(char const *)" (__imp_?_Xlength_error@std@@YAXPEBD@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xlength_error(char const *)" (__imp_?_Xlength_error@std@@YAXPEBD@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xlength_error(char const *)" (__imp_?_Xlength_error@std@@YAXPEBD@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xout_of_range(char const *)" (__imp_?_Xout_of_range@std@@YAXPEBD@Z) referenced in function "public: void __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::_Xran(void)const " (?_Xran@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xout_of_range(char const *)" (__imp_?_Xout_of_range@std@@YAXPEBD@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xout_of_range(char const *)" (__imp_?_Xout_of_range@std@@YAXPEBD@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl std::_Xout_of_range(char const *)" (__imp_?_Xout_of_range@std@@YAXPEBD@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<char,struct std::char_traits<char>,class std::allocator<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??$?6DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) referenced in function "void * __cdecl std::_Allocate(unsigned __int64,unsigned __int64,bool)" (?_Allocate@std@@YAPEAX_K0_N@Z)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ) referenced in function "public: void __cdecl std::_Container_base12::_Orphan_all(void)" (?_Orphan_all@_Container_base12@std@@QEAAXXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) referenced in function "public: void __cdecl VATTU::Nhap(void)" (?Nhap@VATTU@@QEAAXXZ)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z) referenced in function "public: void __cdecl DS_HOADON::XuLyHOADON(void)" (?XuLyHOADON@DS_HOADON@@QEAAXXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z) referenced in function "public: void __cdecl DS_HOADON::XuLyHOADON(void)" (?XuLyHOADON@DS_HOADON@@QEAAXXZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+DS_HOADON.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) referenced in function "public: static char * __cdecl std::char_traits<char>::assign(char *,unsigned __int64,char)" (?assign@?$char_traits@D@std@@SAPEADPEAD_KD@Z)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+DS_HOADON.obj : error LNK2019: unresolved external symbol __imp__getch referenced in function "public: void __cdecl DS_HOADON::XuLyHOADON(void)" (?XuLyHOADON@DS_HOADON@@QEAAXXZ)
+DS_VATTU.obj : error LNK2001: unresolved external symbol __imp__getch
+HOADON.obj : error LNK2001: unresolved external symbol __imp__getch
+DS_HOADON.obj : error LNK2019: unresolved external symbol _CxxThrowException referenced in function __catch$?_Copy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAAX_K0@Z$1
+DS_VATTU.obj : error LNK2001: unresolved external symbol _CxxThrowException
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol _CxxThrowException
+VATTU.obj : error LNK2001: unresolved external symbol _CxxThrowException
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+VATTU.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+DS_HOADON.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+DS_VATTU.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+HOADON.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+main.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+VATTU.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+DS_HOADON.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+DS_VATTU.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+HOADON.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+main.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+VATTU.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+DS_HOADON.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+DS_VATTU.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+HOADON.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+main.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+VATTU.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+DS_HOADON.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+DS_VATTU.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+HOADON.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+main.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+VATTU.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+DS_HOADON.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+DS_VATTU.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+HOADON.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+main.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+VATTU.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+DS_HOADON.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+DS_VATTU.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+HOADON.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+main.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __security_check_cookie
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol __security_check_cookie
+VATTU.obj : error LNK2001: unresolved external symbol __security_check_cookie
+DS_HOADON.obj : error LNK2001: unresolved external symbol __security_check_cookie
+DS_VATTU.obj : error LNK2001: unresolved external symbol __security_check_cookie
+HOADON.obj : error LNK2001: unresolved external symbol __security_check_cookie
+main.obj : error LNK2001: unresolved external symbol __security_check_cookie
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+DS_HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+HOADON.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol __security_cookie
+Nodes_DSHOADON.obj : error LNK2001: unresolved external symbol __security_cookie
+VATTU.obj : error LNK2001: unresolved external symbol __security_cookie
+DS_HOADON.obj : error LNK2001: unresolved external symbol __security_cookie
+DS_VATTU.obj : error LNK2001: unresolved external symbol __security_cookie
+HOADON.obj : error LNK2001: unresolved external symbol __security_cookie
+main.obj : error LNK2001: unresolved external symbol __security_cookie
+DS_VATTU.obj : error LNK2019: unresolved external symbol "void __cdecl `eh vector constructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *),void (__cdecl*)(void *))" (??_L@YAXPEAX_K1P6AX0@Z2@Z) referenced in function "public: __cdecl DS_VATTU::DS_VATTU(void)" (??0DS_VATTU@@QEAA@XZ)
+DS_VATTU.obj : error LNK2019: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z) referenced in function "public: __cdecl DS_VATTU::~DS_VATTU(void)" (??1DS_VATTU@@QEAA@XZ)
+DS_VATTU.obj : error LNK2019: unresolved external symbol __imp___acrt_iob_func referenced in function "public: void __cdecl DS_VATTU::SuaVT(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SuaVT@DS_VATTU@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+VATTU.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+DS_VATTU.obj : error LNK2019: unresolved external symbol __imp_fflush referenced in function "public: void __cdecl DS_VATTU::SuaVT(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SuaVT@DS_VATTU@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+VATTU.obj : error LNK2001: unresolved external symbol __imp_fflush
+DS_VATTU.obj : error LNK2019: unresolved external symbol memcmp referenced in function "public: static int __cdecl std::char_traits<char>::compare(char const *,char const *,unsigned __int64)" (?compare@?$char_traits@D@std@@SAHPEBD0_K@Z)
+So Sanh Chuoi Quick Sort.obj : error LNK2001: unresolved external symbol memcmp
+DS_VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sbumpc(void)" (__imp_?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ) referenced in function "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::getline<char,struct std::char_traits<char>,class std::allocator<char> >(class std::basic_istream<char,struct std::char_traits<char> > &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,char)" (??$getline@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@0@$$QEAV10@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@D@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sbumpc(void)" (__imp_?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+DS_VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sgetc(void)" (__imp_?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ) referenced in function "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::getline<char,struct std::char_traits<char>,class std::allocator<char> >(class std::basic_istream<char,struct std::char_traits<char> > &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,char)" (??$getline@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@0@$$QEAV10@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@D@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sgetc(void)" (__imp_?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+DS_VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::snextc(void)" (__imp_?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ) referenced in function "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::getline<char,struct std::char_traits<char>,class std::allocator<char> >(class std::basic_istream<char,struct std::char_traits<char> > &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,char)" (??$getline@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@0@$$QEAV10@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@D@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::snextc(void)" (__imp_?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHXZ)
+DS_VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::basic_istream<char,struct std::char_traits<char> >::_Ipfx(bool)" (__imp_?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z) referenced in function "public: __cdecl std::basic_istream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_istream<char,struct std::char_traits<char> > &,bool)" (??0sentry@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@_N@Z)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::basic_istream<char,struct std::char_traits<char> >::_Ipfx(bool)" (__imp_?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAA_N_N@Z)
+DS_VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_istream<char,struct std::char_traits<char> > std::cin" (__imp_?cin@std@@3V?$basic_istream@DU?$char_traits@D@std@@@1@A)
+VATTU.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_istream<char,struct std::char_traits<char> > std::cin" (__imp_?cin@std@@3V?$basic_istream@DU?$char_traits@D@std@@@1@A)
+HOADON.obj : error LNK2019: unresolved external symbol __imp__localtime64_s referenced in function localtime_s
+HOADON.obj : error LNK2019: unresolved external symbol __imp__time64 referenced in function time
+main.obj : error LNK2019: unresolved external symbol __imp_system referenced in function main
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::operator>>(int &)" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEAH@Z) referenced in function "public: void __cdecl VATTU::Nhap(void)" (?Nhap@VATTU@@QEAAXXZ)
+VATTU.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::ignore(__int64,int)" (__imp_?ignore@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@_JH@Z) referenced in function "public: void __cdecl VATTU::Nhap(void)" (?Nhap@VATTU@@QEAAXXZ)
+LINK : error LNK2001: unresolved external symbol mainCRTStartup
+D:\Projects\CPP\Visual Studio 2017\DoAn\x64\Debug\DoAn.exe : fatal error LNK1120: 59 unresolved externals

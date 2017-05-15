@@ -1,0 +1,5 @@
+c:\users\sonla\documents\visual studio 2015\Projects\In hinh tam giac can\In hinh tam giac can\bin\Debug\In hinh tam giac can.exe
+c:\users\sonla\documents\visual studio 2015\Projects\In hinh tam giac can\In hinh tam giac can\bin\Debug\In hinh tam giac can.pdb
+c:\users\sonla\documents\visual studio 2015\Projects\In hinh tam giac can\In hinh tam giac can\obj\Debug\In hinh tam giac can.csprojResolveAssemblyReference.cache
+c:\users\sonla\documents\visual studio 2015\Projects\In hinh tam giac can\In hinh tam giac can\obj\Debug\In hinh tam giac can.exe
+c:\users\sonla\documents\visual studio 2015\Projects\In hinh tam giac can\In hinh tam giac can\obj\Debug\In hinh tam giac can.pdb
